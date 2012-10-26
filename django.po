@@ -151,7 +151,7 @@ msgstr "无法分配浮动IP"
 
 #: dashboards/nova/access_and_security/floating_ips/tables.py:34
 msgid "Allocate IP To Project"
-msgstr "分配IP到项目"
+msgstr "获取IP到项目"
 
 #: dashboards/nova/access_and_security/floating_ips/tables.py:44
 msgid "Release"
@@ -189,7 +189,7 @@ msgstr "无法释放浮动IP。"
 #: dashboards/nova/instances_and_volumes/instances/tables.py:228
 #: dashboards/syspanel/instances/tables.py:52
 msgid "IP Address"
-msgstr "IP位址"
+msgstr "IP地址"
 
 #: dashboards/nova/access_and_security/floating_ips/tables.py:96
 msgid "Floating IP Pool"
@@ -1398,7 +1398,7 @@ msgstr "虚拟处理器"
 
 #: dashboards/nova/templates/nova/instances_and_volumes/instances/_detail_overview.html:33
 msgid "IP Addresses"
-msgstr "IP位址"
+msgstr "IP地址"
 
 #: dashboards/nova/templates/nova/instances_and_volumes/instances/_detail_overview.html:57
 msgid "No rules defined."
@@ -1588,7 +1588,7 @@ msgid ""
 "Download the RC file for the selected project, then type \"source openrc\" "
 "in the terminal to configure your environment to communicate with OpenStack."
 msgstr ""
-"下载所选择项目的RC文件後，在終端输入\"source openrc\"來设置您的环境，以便和"
+"下载所选择项目的RC文件后，在終端输入\"source openrc\"來设置您的环境，以便和"
 "OpenStack做连接沟通。"
 
 #: dashboards/settings/templates/settings/project/_openrc.html:23
